@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmpaula)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **gabrielmpaula/gabrielmpaula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
